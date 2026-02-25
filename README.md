@@ -1,7 +1,11 @@
 
 <img width="360" height="151" alt="Health Connect" src="https://github.com/user-attachments/assets/3761cce5-f5f2-4090-be70-da1374c58c2c" />
 
-# Health Export
+<a href="https://play.google.com/store/apps/details?id=com.teqxnology.healthdataexport&pcampaignid=web_share">
+  <img src="https://github.com/user-attachments/assets/1cb8443a-2312-48f4-a31b-e2eb52a95fce" alt="Get it on Google Play" width="343" height="343">
+</a>
+
+# Health Data Export
 
 ### Description
 Export your Health Connect data to Google Sheets or CSV. And because it pull data directly from Health Connect, it is compatible most health and fitness apps (Strava, Garmin, Fitbit, Coros, Samsung, Polar, Withings, Zepp/Amazfit, etc.). Choose which health metrics to include. Flexibility to select a date range. Supports the following data types
@@ -56,19 +60,11 @@ Android 9+
 <img width="324" height="702" alt="Screenshots_2026-02-20-22-37-21" src="https://github.com/user-attachments/assets/fecc0c29-b85b-4b81-90a3-30e02c06107c" />
 
 
-## Download & Install (Android)
+## Download & Install (Android only)
 
-### 1) Download the APK
-**UPDATE: SOON AVAILABLE ON PLAY STORE: HEALTH DATA EXPORT**
-1. Go to the GitHub page: **Releases** → download the latest `*.apk`
-   (_Bottom right side of Github repo_)
-2. Save it to your phone
-
-### 2) Install the APK (sideload)
-1. Tap the downloaded APK
-2. If Android blocks it:
-   - Go to **Settings → Security / Privacy → Install unknown apps**
-   - Allow installs for the app you used to open the APK (usually **Chrome** or **Files**)
+<a href="https://play.google.com/store/apps/details?id=com.teqxnology.healthdataexport&pcampaignid=web_share">
+  <img src="https://github.com/user-attachments/assets/69c6cffb-093c-4a34-b896-0523709117b4" alt="Get it on Google Play" width="528" height="343">
+</a>
 
 ---
 
